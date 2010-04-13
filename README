@@ -1,0 +1,12 @@
+Simple implementation of the Map Reduce algorithm. This is 
+an algorithm is very scalable. Use of it is well advised
+for any time a problem can be easily divided. For example,
+any time we are doing an operation on each element of a list
+or each element of an array.
+
+Functional programming initially looks very confusing. Read up on it in 
+Wikipedia or other sources until this code makes sense. Also read the Joel
+on Software piece below.
+
+  http://www.joelonsoftware.com/items/2006/08/01.html
+
